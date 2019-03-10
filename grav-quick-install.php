@@ -459,7 +459,7 @@ if ($_GET)
 		<div class="py-5 text-center">
 			<img class="mb-4" src="https://getgrav-grav.netdna-ssl.com/user/pages/media/grav-logo.svg" alt="" width="671" height="186">
 			<h2>Quick Grav Install</h2>
-			<p class="lead">Created by CaDJoU <i><a href="https://github.com/cadjou/" target="_blank">https://github.com/cadjou/</a></i> and <b><a href="https://kwa.digital/" target="_blank">KWA Digital</a></b></p>
+			<p class="lead">Created by CaDJoU <i><a href="https://github.com/cadjou/grav-quick-install" target="_blank">https://github.com/cadjou/grav-quick-install</a></i> with <b><a href="https://kwa.digital/" target="_blank">KWA Digital</a></b></p>
 		</div>
 		<div class="row">
 			<div class="container">
