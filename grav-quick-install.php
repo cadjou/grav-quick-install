@@ -74,7 +74,7 @@ class cadInstallGrav
 			'parameters'	=> 'required',
 		],[ 'name'			=> 'fullname',
 			'placeholder'	=> 'Mr Grav',
-			'label'			=> 'Full Admin',
+			'label'			=> 'Full Name',
 			'type'			=> 'text',
 			'parameters'	=> 'required',
 		],[ 'name'			=> 'title',
@@ -472,10 +472,10 @@ if ($_GET)
 					<h4>Choose your install</h4>
 					<p>
 						<button class="btn btn-primary" type="button" onclick="$('#package').val('<?php echo cadInstallGrav::getLinkGrav(); ?>');">
-							GRAV CORE + ADMIN PLUGIN
+							GRAV CORE + ADMIN PLUGIN Last Version
 						</button>
 						<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#multiCollapseExample1" aria-expanded="false" aria-controls="multiCollapseExample1">
-							Choose in Skeleton
+							Choose in Grav Skeleton 
 						</button>
 					</p>
 					<div class="row">
