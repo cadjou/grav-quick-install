@@ -40,8 +40,10 @@ ini_set('display_errors', 1);
 
 class cadInstallGrav
 {
+	private static $urlPackage	= 'https://getgrav.org/download/core/grav-admin/1.5.8';
+	
 	/** @var urlGravBase */
-	private static $urlGravBase		= 'https://getgrav.org/downloads';
+	private static $urlGravBase	= 'https://getgrav.org/downloads';
 	
 	/** @var urlGravSkeleton */
 	private static $urlGravSkeleton = 'https://getgrav.org/downloads/skeletons';
