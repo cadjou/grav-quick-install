@@ -4,7 +4,9 @@ One page to install Grav CMS
 ## How to use ?
 - To install Grav, put the file **grav-quick-install.php** in the DocumentRoot folder by FTP
 - Go to the url by the Browser on `http(s)://your.domain.tld/grav-quick-install.php` and follow the form
-*This page need Interne connexion to get all to run*
+
+>*This page need Interne connexion to get all to run*<br>
+>*Some packages do not need an administrator and therefore an error message on the user will be present in the return of the installation*
 
 ### Détails du formulaire
 - Packatage : Link to the Zip Packatage
@@ -20,8 +22,9 @@ One page to install Grav CMS
 ## Comment faire ?
 - Pour installer Grav, téléviser le fichier **grav-quick-install.php** dans le dossier Racine par FTP
 - Aller avec un navigateur sur `http(s)://votre.domaine.tld/grav-quick-install.php` et suivre le formulaire
->*Cette page nessecit une connexion internet pour récuper tous les données pour fonctionner*
->*Certain Package n'ont pas besoin d'administrateur et donc un message 
+
+>*Cette page nécessite une connexion internet pour récupérer tous les données pour fonctionner*<br>
+>*Certains packages n'ont pas besoin d'administrateur et donc un message d'erreur sur l'utilisateur sera présent dans le retour de l'installation*
 
 ### Détails du formulaire
 - Packatage : Lien du fichier Zip
